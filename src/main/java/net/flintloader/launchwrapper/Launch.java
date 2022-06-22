@@ -1,4 +1,4 @@
-package net.flintloaderlaunchwrapper;
+package net.flintloader.launchwrapper;
 
 import joptsimple.OptionParser;
 import joptsimple.OptionSet;

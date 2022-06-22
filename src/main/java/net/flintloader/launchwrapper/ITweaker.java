@@ -1,4 +1,4 @@
-package net.flintloaderlaunchwrapper;
+package net.flintloader.launchwrapper;
 
 import java.io.File;
 import java.util.List;

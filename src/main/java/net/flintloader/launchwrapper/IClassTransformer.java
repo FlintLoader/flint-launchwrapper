@@ -1,4 +1,4 @@
-package net.flintloaderlaunchwrapper;
+package net.flintloader.launchwrapper;
 
 public interface IClassTransformer {
 
