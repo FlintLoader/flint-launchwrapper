@@ -1,4 +1,4 @@
-package net.flintloader.launchwrapper;
+package net.minecraft.launchwrapper;
 
 import java.io.File;
 import java.util.List;

@@ -1,4 +1,4 @@
-package net.flintloader.launchwrapper;
+package net.minecraft.launchwrapper;
 
 import joptsimple.OptionParser;
 import joptsimple.OptionSet;
